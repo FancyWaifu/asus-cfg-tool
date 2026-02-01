@@ -127,9 +127,9 @@ $ python3 asus_cfg.py decrypt Settings_RT-AX82U.CFG --summary
 Configuration Summary
 ==================================================
   Model: RT-AX82U
-  LAN IP: 192.168.50.1
+  LAN IP: 192.168.0.1
   LAN MAC: 08:BF:B8:8E:68:28
-  WAN IP: 173.24.73.213
+  WAN IP: 1.1.1.1
   2.4GHz SSID: MyNetwork
   5GHz SSID: MyNetwork_5G
   Admin User: admin
@@ -154,3 +154,4 @@ MIT License - See [LICENSE](LICENSE) file
 ## Disclaimer
 
 This tool is for educational and personal use. Only use it on your own devices and backups. The author is not responsible for any misuse.
+
